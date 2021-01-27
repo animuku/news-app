@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/%7BNews-Consolidator%7D/static/css/main.e764c6c4.chunk.css",
-    "main.js": "/%7BNews-Consolidator%7D/static/js/main.cbb0ac88.chunk.js",
-    "main.js.map": "/%7BNews-Consolidator%7D/static/js/main.cbb0ac88.chunk.js.map",
-    "runtime-main.js": "/%7BNews-Consolidator%7D/static/js/runtime-main.cafa3a74.js",
-    "runtime-main.js.map": "/%7BNews-Consolidator%7D/static/js/runtime-main.cafa3a74.js.map",
-    "static/js/2.890651a7.chunk.js": "/%7BNews-Consolidator%7D/static/js/2.890651a7.chunk.js",
-    "static/js/2.890651a7.chunk.js.map": "/%7BNews-Consolidator%7D/static/js/2.890651a7.chunk.js.map",
-    "static/js/3.bd433e27.chunk.js": "/%7BNews-Consolidator%7D/static/js/3.bd433e27.chunk.js",
-    "static/js/3.bd433e27.chunk.js.map": "/%7BNews-Consolidator%7D/static/js/3.bd433e27.chunk.js.map",
-    "index.html": "/%7BNews-Consolidator%7D/index.html",
-    "static/css/main.e764c6c4.chunk.css.map": "/%7BNews-Consolidator%7D/static/css/main.e764c6c4.chunk.css.map",
-    "static/js/2.890651a7.chunk.js.LICENSE.txt": "/%7BNews-Consolidator%7D/static/js/2.890651a7.chunk.js.LICENSE.txt"
+    "main.css": "/News-Consolidator/static/css/main.e764c6c4.chunk.css",
+    "main.js": "/News-Consolidator/static/js/main.cbb0ac88.chunk.js",
+    "main.js.map": "/News-Consolidator/static/js/main.cbb0ac88.chunk.js.map",
+    "runtime-main.js": "/News-Consolidator/static/js/runtime-main.db74ebc2.js",
+    "runtime-main.js.map": "/News-Consolidator/static/js/runtime-main.db74ebc2.js.map",
+    "static/js/2.890651a7.chunk.js": "/News-Consolidator/static/js/2.890651a7.chunk.js",
+    "static/js/2.890651a7.chunk.js.map": "/News-Consolidator/static/js/2.890651a7.chunk.js.map",
+    "static/js/3.bd433e27.chunk.js": "/News-Consolidator/static/js/3.bd433e27.chunk.js",
+    "static/js/3.bd433e27.chunk.js.map": "/News-Consolidator/static/js/3.bd433e27.chunk.js.map",
+    "index.html": "/News-Consolidator/index.html",
+    "static/css/main.e764c6c4.chunk.css.map": "/News-Consolidator/static/css/main.e764c6c4.chunk.css.map",
+    "static/js/2.890651a7.chunk.js.LICENSE.txt": "/News-Consolidator/static/js/2.890651a7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cafa3a74.js",
+    "static/js/runtime-main.db74ebc2.js",
     "static/js/2.890651a7.chunk.js",
     "static/css/main.e764c6c4.chunk.css",
     "static/js/main.cbb0ac88.chunk.js"
